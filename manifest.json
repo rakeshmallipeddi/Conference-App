@@ -1,0 +1,16 @@
+{
+  "name": "POMS 2025 Conference",
+  "short_name": "POMS 2025",
+  "description": "35th Annual POMS Conference — schedule, sessions, abstracts and your personal agenda.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2f60d1",
+  "theme_color": "#2f60d1",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
